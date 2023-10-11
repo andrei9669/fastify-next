@@ -1,3 +1,7 @@
+# Purpuse
+
+purpuse of this repo is to have MRP for fastify and nextjs project set up in typescript
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
